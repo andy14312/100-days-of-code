@@ -11,3 +11,14 @@ I've used 'readline' library of node to get user input from command prompt. I sh
 **Link to work:** 
 Find the challenge folder here itself. I've named the folder with the challenge name and have included some steps in the readme.md file to run the solution.
 
+### Day 2: January 4, 2017
+
+**Today's Progress**: 
+Came to know about process.stdin and process.stdout in nodejs version 4.3.3. Successfully ran all the tests of hackerearth and submitted the challenge 'monk takes a walk'
+
+**Thoughts:** 
+ No thoughts.
+
+**Link to work:** 
+same work as of day 1
+
