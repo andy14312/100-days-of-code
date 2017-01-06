@@ -22,3 +22,14 @@ Came to know about process.stdin and process.stdout in nodejs version 4.3.3. Suc
 **Link to work:** 
 same work as of day 1
 
+### Day 3: January 6, 2017
+
+**Today's Progress**: 
+Starting nodeschool.io courses. Started learnyounode module. progressed with few challenges 
+
+**Thoughts:** 
+ No thoughts.
+
+**Link to work:** 
+find the script files related to nodeschool learnyounode challenges in the folder 'learnyounode'
+
