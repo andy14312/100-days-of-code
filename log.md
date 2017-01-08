@@ -33,3 +33,13 @@ Starting nodeschool.io courses. Started learnyounode module. progressed with few
 **Link to work:** 
 find the script files related to nodeschool learnyounode challenges in the folder 'learnyounode'
 
+### Day 4: January 8, 2017
+
+**Today's Progress**: 
+handled http requests and its response data through node's http module
+
+**Thoughts:** 
+ No thoughts.
+
+**Link to work:** 
+find the script files related to nodeschool learnyounode challenges in the folder 'learnyounode'
