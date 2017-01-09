@@ -43,3 +43,14 @@ handled http requests and its response data through node's http module
 
 **Link to work:** 
 find the script files related to nodeschool learnyounode challenges in the folder 'learnyounode'
+
+### Day 5: January 9, 2017
+
+**Today's Progress**: 
+Got to know the miracle in handling multiple http requests in node using asynchronous methodology. It's completely event driven non-blocking I\0 functionality. It got my thinking so deep into callbacks and global variables and how to track the http request responses and make them output to the screen in the manner we intend to. Phew! that was one hell of a brainstorming. Thank you www.nodeschool.io for creating such a nice challenges for a nodejs newbie.
+
+**Thoughts:** 
+ All hail NodeJs way of handling server requests. Way to go JavaScript! 
+
+**Link to work:** 
+find the script files related to nodeschool learnyounode challenges in the folder 'learnyounode'
