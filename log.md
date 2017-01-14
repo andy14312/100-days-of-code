@@ -54,3 +54,14 @@ Got to know the miracle in handling multiple http requests in node using asynchr
 
 **Link to work:** 
 find the script files related to nodeschool learnyounode challenges in the folder 'learnyounode'
+
+### Day 6: January 9, 2017
+
+**Today's Progress**: 
+Completed the learnyounode workshop which was just basic http i/o asynchronous processes in node.
+
+**Thoughts:** 
+ eager to complete the next git-it workshop
+
+**Link to work:** 
+find the script files related to nodeschool learnyounode challenges in the folder 'learnyounode'
