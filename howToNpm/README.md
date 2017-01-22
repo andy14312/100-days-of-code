@@ -1,0 +1,1 @@
+Hey there! This howToNpm folder is to complete the how-to-npm workshop of nodeschool

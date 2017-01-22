@@ -1,11 +1,15 @@
 {
-  "name": "howtonpm",
-  "version": "1.0.0",
-  "description": "",
+  "name": "andy14312-howtonpm",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node tests.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "andy14312",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andy14312/100-days-of-code/tree/master/howToNpm"
+  },
+  "description": ""
 }
